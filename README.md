@@ -11,8 +11,8 @@ const jonathan = {
     about_me: {
         career: "Former nurse 🩺 transition to Software Engineer. 👨🏼‍💻",
         family: "Father of one 👨‍👩‍👧 and one on the way!🐣",
-        hobbies: "Fishing, camping, and binge-watching tv shows.",
-        goals: "Continue learning and expanding my knowledge in programming."
+        hobbies: "Fishing 🎣, camping 🏕️, and binge watching tv shows 📺.",
+        goals: "Continue learning and expanding my knowledge for programming 🤓."
     }
 }
 ```
