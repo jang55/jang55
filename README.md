@@ -12,7 +12,7 @@ const jonathan = {
         career: "Former nurse 🩺 transition to Software Engineer. 👨🏼‍💻",
         family: "Father of one 👨‍👩‍👧 and one on the way!🐣",
         hobbies: "Fishing 🎣, camping 🏕️, and binge watching tv shows 📺.",
-        goals: "Continue learning and expanding my knowledge for programming 🤓."
+        goals: "Continue learning and expanding my knowledge in programming 🤓."
     }
 }
 ```
